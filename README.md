@@ -1,4 +1,4 @@
-# Advent of Code 2024
+# ⭐ Advent of Code 2024 ⭐
 
 Welcome to the **Advent of Code 2024** repository!  
 This project contains my solutions to the [Advent of Code 2024](https://adventofcode.com/2024) challenges, written in **Go**.
