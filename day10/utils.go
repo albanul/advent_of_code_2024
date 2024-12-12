@@ -1,4 +1,4 @@
-package quque
+package queue
 
 import "errors"
 

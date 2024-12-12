@@ -95,7 +95,7 @@ func FindAllStartingPoints(puzzle Puzzle) []Point {
 func GetTrailheadScore(puzzle Puzzle, startingPoint Point) (int, error) {
 	score := 0
 
-	q := quque.NewQueue[Point]()
+	q := queue.NewQueue[Point]()
 	q.Enqueue(startingPoint)
 
 	for !q.IsEmpty() {
