@@ -27,3 +27,6 @@ go.work.sum
 
 # JetBrains
 .idea/
+
+# pictures of day14.2
+day14/output/
